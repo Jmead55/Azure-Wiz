@@ -15,7 +15,7 @@ In this project, I build a mini honeynet in Azure and ingested log sources from 
 ![Architecture Diagram](https://i.imgur.com/MXieHP0.png)
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![Architecture Diagram](https://i.imgur.com/0Dkhojq.png)
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
